@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-
+<h3 align="center">Senior Full-Stack Developer from Pakistan</h3>
+<p align="center">With a deep passion for software engineering, I’m dedicated to exploring new technologies and leveraging modern tech stacks to build scalable, efficient, and impactful solutions. Always keen on innovating and solving complex challenges with a focus on creating high-quality software.</p>
 <!-- <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
